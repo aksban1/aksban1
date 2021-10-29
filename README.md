@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay
-- 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning Kubernetes, Docker and Python.
+- 👀 I’m currently working as DevOps Engineer.
+- 🌱 I have experience in Kubernetes, Docker, Jenkins and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact email - aksban1@gmail.com
 
