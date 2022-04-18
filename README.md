@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay
 - 👀 I’m currently working as DevOps Engineer.
-- 🌱 I have experience in Kubernetes, Docker, Jenkins, Azure and Python.
+- 🌱 I have experience in Azure DevOps, Kubernetes, Docker, Terraform and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact email - aksban1@gmail.com
 
