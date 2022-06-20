@@ -19,3 +19,7 @@ spec:
         image: aksban1/flask_hello:1.6.0
         ports:
         - containerPort: 5000
+      tolerations:
+      - key: "node.kubernetes.io/disk-pressure"
+        operator: "Exists"
+        effect: "NoSchedule"
